@@ -1,2 +1,2 @@
-# Completo
-Source code
+# Completo - Autocomplete plugin
+Source code of Completo
